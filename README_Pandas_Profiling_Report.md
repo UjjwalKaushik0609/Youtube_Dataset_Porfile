@@ -1,6 +1,6 @@
 
 # 📊 Pandas Profiling Report Summary (`output.html`)
-
+![Image](https://github.com/user-attachments/assets/ec36f4e9-e757-4e3a-9fd5-f163fe71d719)
 ## 📁 Overview
 This report was generated using **YData Profiling** (formerly `pandas-profiling`) to provide a comprehensive exploratory data analysis (EDA) of the given dataset. The profiling process includes descriptive statistics, data quality checks, correlation analysis, missing value detection, and detailed distribution visualizations — all performed directly in **Google Colab**.
 
